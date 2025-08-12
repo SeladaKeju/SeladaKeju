@@ -6,11 +6,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeladaKeju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SeladaKeju&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="SeladaKeju's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=SeladaKeju&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeladaKeju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SeladaKeju&theme=graywhite&show_icons=true&hide_border=false&count_private=true" height="150" alt="SeladaKeju's GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=SeladaKeju&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </div>
+
 
 ###
 
