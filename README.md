@@ -1,8 +1,4 @@
-<h2 align="left">About Me</h2>
-
-###
-
-<h3 align="left">Hi there 👋! I’m SeladaKeju from Semarang State Polytechnic. I’m a beginner who is currently learning web development and interested in technologies like Laravel and React. I'm actively exploring various projects to improve my skills and gain more experience in the world of web development.</h3>
+Yoo 👋, I’m Rizqi Aditya  
 
 ###
 
